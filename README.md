@@ -20,7 +20,7 @@
   <img align="center" alt="Mari-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-ReactJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Mari-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Mari-gif" height="150" style="border-radius:50px;" src="https://discord.com/channels/1024037558772056114/1024037559589949561/1024039508985008231">
+  <img align="right" alt="Mari-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/906698660539154452/1024054272297533480/mari.gif">
 </div>
   
   ##
