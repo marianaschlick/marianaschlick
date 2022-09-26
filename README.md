@@ -1,10 +1,10 @@
 ## Olá estranho! 🙌
-- 😃 Me chamo Mariana Schlickmann ( @marianaschlick ) 
+- 😃 Me chamo Mariana Schlickmann 
 - 🏳️‍🌈 Comunidade LGBTQIAPN+ ( Agênero / Bissexual )
 - 🌾 Sou formada em Agronomia pela Universidade Federal de Santa Catarina ( UFSC )
 - 🔪 Atualmente trabalho como cozinheira
 - 👣 Estou em transição de carreira para a área da tecnologia, me aprofundando em diversas linguagens, com foco Full-Stack
-- 🖥️ Estudo de forma autodidata, através de cursos online e por processos disponibilizados por instituições de ensino e empresas
+- 🖥️ Estudo de forma autodidata, através de cursos online e por materiais disponibilizados por instituições de ensino e empresas
 
 <div align="center">
   <a href="https://github.com/marianaschlick">
