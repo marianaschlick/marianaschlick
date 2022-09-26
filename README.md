@@ -1,7 +1,8 @@
 ## Olá estranho! 🙌
-- 😃 Me chamo Mariana Schlickmann 
-- 🏳️‍🌈 Comunidade LGBTQIAPN+ ( Agênero / Bissexual )
-- 🌾 Sou formada em Agronomia pela Universidade Federal de Santa Catarina ( UFSC )
+- 😃 Me chamo Mariana Schlickmann
+- ♉ Totalmente taurina ( 15/05/1994 )
+- 🏳️‍🌈 Integrante da comunidade LGBTQIAPN+ ( Agênero / Bissexual )
+- 🌾 Formada em Agronomia pela Universidade Federal de Santa Catarina ( UFSC )
 - 🔪 Atualmente trabalho como cozinheira
 - 👣 Estou em transição de carreira para a área da tecnologia, me aprofundando em diversas linguagens, com foco Full-Stack
 - 🖥️ Estudo de forma autodidata, através de cursos online e por materiais disponibilizados por instituições de ensino e empresas
