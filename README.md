@@ -5,7 +5,7 @@
 - 🌾 Formada em Agronomia pela Universidade Federal de Santa Catarina ( UFSC )
 - 🔪 Atualmente trabalho como cozinheira
 - 👣 Estou em transição de carreira para a área da tecnologia, me aprofundando em diversas linguagens, com foco Full-Stack
-- 🖥️ Autodidata, buscando sempre cursos online e materiais disponibilizados por instituições de ensino e empresas
+- 🖥️ Autodidata, buscando sempre cursos online e materiais disponibilizados por empresase instituições de ensino
 
 <div align="center">
   <a href="https://github.com/marianaschlick">
@@ -21,7 +21,7 @@
   <img align="center" alt="Mari-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-ReactJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Mari-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Mari-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/906698660539154452/1024054272297533480/mari.gif">
+  <img align="right"  alt="Mari-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/906698660539154452/1024054272297533480/mari.gif">
 </div>
   
   ##
