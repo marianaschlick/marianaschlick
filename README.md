@@ -5,7 +5,7 @@
 - 🌾 Formada em Agronomia pela Universidade Federal de Santa Catarina ( UFSC )
 - 🔪 Atualmente trabalho como cozinheira
 - 👣 Estou em transição de carreira para a área da tecnologia, me aprofundando em diversas linguagens, com foco Full-Stack
-- 🖥️ Autodidata, buscando sempre cursos online e materiais disponibilizados por empresase instituições de ensino
+- 🖥️ Autodidata, buscando sempre cursos online e materiais disponibilizados por empresas e instituições de ensino
 
 <div align="center">
   <a href="https://github.com/marianaschlick">
