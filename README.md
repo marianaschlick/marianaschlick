@@ -47,7 +47,6 @@
 <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Mari-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" target="_blank"></a>
 <a href="https://developer.android.com/studio?gclid=CjwKCAjwm8WZBhBUEiwA178UnBiYtFBmNGBYNdUiwdTd45waGQL2hZfLs482X1U-veMBk1GGOaiWxxoCFLMQAvD_BwE&gclsrc=aw.ds#downloads" target="_blank"><img align="center" alt="Mari-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" target="_blank"></a>
   
-###### Clique para saber mais
 </div>
   
 # Cursos
