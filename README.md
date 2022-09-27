@@ -8,12 +8,13 @@
 - 🖥️ Autodidata, buscando sempre cursos online e materiais disponibilizados por empresas e instituições de ensino
 
 <div align="center">
+  <img height="150em"  align="right" alt="Mari" src="https://i.picasion.com/pic92/4a10f032726e9243433331d66666bbc3.gif">
   <a href="https://github.com/marianaschlick">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianaschlick&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaschlick&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marianaschlick&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaschlick&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mari-Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"]>
+  <img align="center" alt="Mari-Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Mari-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Mari-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Mari-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -21,7 +22,6 @@
   <img align="center" alt="Mari-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-ReactJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Mari-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="right"  alt="Mari-gif" height="150" style="border-radius:50px; display: inline !important"  src="https://cdn.discordapp.com/attachments/906698660539154452/1024054272297533480/mari.gif">
 </div>
   
   ##
