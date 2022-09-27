@@ -10,8 +10,8 @@
 <div>
   <img height="160em" align="right" src="https://i.picasion.com/pic92/4a10f032726e9243433331d66666bbc3.gif">
   <a href="https://github.com/marianaschlick">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marianaschlick&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaschlick&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=marianaschlick&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/><br>
+  <img height="117em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaschlick&layout=compact&langs_count=7&theme=gruvbox"/>
 </div><br>
 
   ##
