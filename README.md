@@ -27,8 +27,8 @@
 
 <br><div>
   <a href="https://github.com/marianaschlick">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marianaschlick&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaschlick&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marianaschlick&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaschlick&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
 <br>
