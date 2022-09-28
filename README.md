@@ -1,6 +1,6 @@
 ## Olá estranho! 🌻 
 
-  <img height="160" width="160" align="right" src="https://i.picasion.com/pic92/4a10f032726e9243433331d66666bbc3.gif">
+  <img height="140" width="140" align="right" src="https://i.picasion.com/pic92/4a10f032726e9243433331d66666bbc3.gif">
   
   <p align="center">✨ MEU PORTIFÓLIO ✨</p>
   
@@ -15,7 +15,14 @@
   </p>
  
  # Sobre
- 
+
+<table width="200px" border="1">
+  <tr><td>
+ <p style="text-align: justify;"> Me chamo Mariana Schlickmann, taurine, nascida em 15/05/1994 (28 anos). Sou integrante da comunidade LGBTQIAPN+, como pessoa não-binária e bissexual. Sou apaixonade por jogos e trocas de conhecimento em diversas áreas, gosto muito de muitas coisas, possuindo inúmeros hobbies. Me formei em Agronomia pela Universidade Federal de Santa Catarina, onde participei de diversos projetos e grupos de pesquisa. Atualmente trabalho como cozinheire em uma creperia francesa. Estou em transição de carreira para a área da tecnologia, me aprofundando em diversas linguagens, com foco Full-Stack. Busco sempre por cursos online e materiais disponibilizados por empresas e instituições de ensino, mantendo o espiríto autodidata ativo!</p>
+  </td></tr>
+</table>
+    
+    
 - 😃 Me chamo Mariana Schlickmann
 - ♉ Taurine, nascide em 15/05/1994 (28 anos)
 - 🏳️‍🌈 Integrante da comunidade LGBTQIAPN+ ( Não-binário / Bissexual )
@@ -61,7 +68,7 @@
   
 # Projetos
 
-#### Projetos próprios
+#### Meus 3 primeiros projetos independentes!!! 🏆
   
 # Contatos
   
