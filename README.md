@@ -72,6 +72,6 @@
 
 # Informativo
 
-<p>Comunidade LGBTQIAPN+ <a href="https://orientando.org/o-que-significa-lgbtqiap/" target="_blank"><img align="center" height="50" width="50" src="https://img.icons8.com/external-microdots-premium-microdot-graphic/344/external-lgbt-human-civilization-vol1-microdots-premium-microdot-graphic.png"></a>   
-TOURO <a href="https://www.personare.com.br/touro" target="_blank"><img align="center" height="65" width="60" src="https://img.icons8.com/clouds/344/taurus.png"></a>
-Agronomia e ciência <a href="http://lattes.cnpq.br/3354736536591451" target="_blank"><img align="center" height="50" width="50" src="https://img.icons8.com/fluency/344/tractor.png" target="_blank"></a></p> 
+<p><a href="https://orientando.org/o-que-significa-lgbtqiap/" target="_blank"><img align="center" height="50" width="50" src="https://img.icons8.com/external-microdots-premium-microdot-graphic/344/external-lgbt-human-civilization-vol1-microdots-premium-microdot-graphic.png"></a> Comunidade LGBTQIAPN+ <br>   
+<a href="https://www.personare.com.br/touro" target="_blank"><img align="center" height="65" width="60" src="https://img.icons8.com/clouds/344/taurus.png"></a> TOURO <br>
+<a href="http://lattes.cnpq.br/3354736536591451" target="_blank"><img align="center" height="50" width="50" src="https://img.icons8.com/fluency/344/tractor.png" target="_blank"></a> Agronomia e ciência </p> 
