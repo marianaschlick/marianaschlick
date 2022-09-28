@@ -10,16 +10,17 @@
     <a href="#tecnologias">Tecnologias</a> -
     <a href="#cursos">Cursos</a> -
     <a href="#projetos">Projetos</a> -
-    <a href="#contatos">Contatos</a> 
+    <a href="#contatos">Contatos</a> -
+    <a href="#informativo">Informativo</a>
   </p>
  
  # Sobre
  
 - 😃 Me chamo Mariana Schlickmann
-- ♉ Taurina, nascida em 15/05/1994 (28 anos)
-- 🏳️‍🌈 Integrante da comunidade LGBTQIAPN+ ( Agênero / Bissexual )
-- 🌾 Formada em Agronomia pela Universidade Federal de Santa Catarina ( UFSC )
-- 🔪 Atualmente trabalho como cozinheira
+- ♉ Taurine, nascide em 15/05/1994 (28 anos)
+- 🏳️‍🌈 Integrante da comunidade LGBTQIAPN+ ( Não-binário / Bissexual )
+- 🌾 Formade em Agronomia pela Universidade Federal de Santa Catarina ( UFSC )
+- 🔪 Atualmente trabalho como cozinheire
 - 🚀 Estou em transição de carreira para a área da tecnologia, me aprofundando em diversas linguagens, com foco Full-Stack
 - 🖥️ Autodidata, buscando sempre cursos online e materiais disponibilizados por empresas e instituições de ensino
 
@@ -59,6 +60,8 @@
 <p>Python Coding Tank - Let's Code <a href="https://letscode.com.br/?utm_medium=cpc&utm_source=google&utm_campaign=institucional-tf-search&gclid=CjwKCAjwvsqZBhAlEiwAqAHElQdDtWZe5jbmUc8BTQG_HqWlF6JAiOy0zKjxJ6RWsWzB38fycO1AyRoCdd0QAvD_BwE" target="_blank"><img align="center" height="55" width="55" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFl76iMNbPFpA/company-logo_200_200/0/1649869217542?e=2147483647&v=beta&t=GLPY6NcJi-WjDLK-1NXYnOLadThUXATFl0XnC1-m7R4" target="_blank"></a></p>
   
 # Projetos
+
+#### Projetos próprios
   
 # Contatos
   
@@ -72,3 +75,9 @@
   ![Snake animation](https://github.com/marianaschlick/marianaschlick/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+# Informativo
+
+<p>Comunidade LGBTQIAPN+ <a href="https://orientando.org/o-que-significa-lgbtqiap/" target="_blank"><img align="center" height="50" width="50" src="https://img.icons8.com/external-microdots-premium-microdot-graphic/344/external-lgbt-human-civilization-vol1-microdots-premium-microdot-graphic.png"></a>   
+TOURO <a href="https://www.personare.com.br/touro" target="_blank"><img align="center" height="65" width="60" src="https://img.icons8.com/clouds/344/taurus.png"></a>
+Agronomia e ciência <a href="http://lattes.cnpq.br/3354736536591451" target="_blank"><img align="center" height="50" width="50" src="https://img.icons8.com/fluency/344/tractor.png" target="_blank"></a></p> 
