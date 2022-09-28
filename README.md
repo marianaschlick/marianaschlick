@@ -16,7 +16,7 @@
  
  # Sobre
 
- <p align="justify"> Me chamo Mariana Schlickmann, taurine, nascida em 15/05/1994 (28 anos). Sou integrante da comunidade LGBTQIAPN+, como pessoa não-binária e bissexual. Sou apaixonade por jogos e trocas de conhecimento em diversas áreas, gosto muito de muitas coisas, possuindo inúmeros hobbies. Me formei em Agronomia pela Universidade Federal de Santa Catarina, onde participei de diversos projetos e grupos de pesquisa. Atualmente trabalho como cozinheire em uma creperia francesa. Estou em transição de carreira para a área da tecnologia, me aprofundando em diversas linguagens, com foco Full-Stack. Busco sempre por cursos online e materiais disponibilizados por empresas e instituições de ensino, mantendo o espiríto autodidata ativo!</p>
+ <p align="justify"> Me chamo Mariana Schlickmann, taurine, nascida em 15/05/1994 (28 anos). Sou integrante da comunidade LGBTQIAPN+, como pessoa não-binária e bissexual. Mãe da Capitu (meow) e da Matilda (au). Sou apaixonade por jogos, plantas, comidas, pets, música e trocas de conhecimento, gosto muito de muitas coisas, possuindo inúmeros hobbies e interesses. Me formei em Agronomia pela Universidade Federal de Santa Catarina, onde participei de diversos projetos, laboratórios e grupos de pesquisa. Atualmente trabalho como cozinheire em uma creperia francesa. Estou em transição de carreira para a área da tecnologia, me aprofundando em diversas linguagens, com foco Full-Stack. Busco sempre por cursos online e materiais disponibilizados por empresas e instituições de ensino, mantendo o espiríto autodidata ativo!</p>
 
 # Roadmap
 
