@@ -49,7 +49,7 @@
 <p>Bootcamp Java Developer | Ifood Dev Week - DIO <a href="https://web.dio.me/play" target="_blank"><img align="center" height="55" width="55" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" target="_blank"></a></p>
 <p>Imersão Dev - Alura <a href="https://imersao.dev/" target="_blank"><img align="center" height="40" width="40" src="https://play-lh.googleusercontent.com/Y9T2c7ZUQyfUdVbj_J9-8tBDDVknyBg3lM3xUuMNp6phK_yKOkQTeqx2jphrwW1Z6jts" target="_blank"></a></p>    
 <p>Floripa Mais Tec - SENAI | ACATE | SEBRAE <a href="https://floripamaistec.pmf.sc.gov.br/" target="_blank"><img align="center" height="65" width="65" src="https://floripamaistec.pmf.sc.gov.br/wp-content/themes/floripamaistec/img/logos/logo-menu.svg" target="_blank"></a></p>     
-<p>Python Coding Tank - Let's Code <a href="https://letscode.com.br/?utm_medium=cpc&utm_source=google&utm_campaign=institucional-tf-search&gclid=CjwKCAjwvsqZBhAlEiwAqAHElQdDtWZe5jbmUc8BTQG_HqWlF6JAiOy0zKjxJ6RWsWzB38fycO1AyRoCdd0QAvD_BwE" target="_blank"><img align="center" height="55" width="55" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFl76iMNbPFpA/company-logo_200_200/0/1649869217542?e=2147483647&v=beta&t=GLPY6NcJi-WjDLK-1NXYnOLadThUXATFl0XnC1-m7R4" target="_blank"></a></p>
+<p>Python Coding Tank - Let's Code <a href="https://letscode.com.br/?utm_medium=cpc&utm_source=google&utm_campaign=institucional-tf-search&gclid=CjwKCAjwvsqZBhAlEiwAqAHElQdDtWZe5jbmUc8BTQG_HqWlF6JAiOy0zKjxJ6RWsWzB38fycO1AyRoCdd0QAvD_BwE" target="_blank"><img align="center" height="45" width="45" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFl76iMNbPFpA/company-logo_200_200/0/1649869217542?e=2147483647&v=beta&t=GLPY6NcJi-WjDLK-1NXYnOLadThUXATFl0XnC1-m7R4" target="_blank"></a></p>
   
 # Projetos
 
