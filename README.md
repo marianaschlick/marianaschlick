@@ -57,7 +57,7 @@
   
 # Projetos
 
-#### Meus 3 primeiros projetos independentes!!! 🏆
+#### Meus 3 primeiros projetos independentes!!! 🏆  [Aguarde]
   
 # Contatos
   
