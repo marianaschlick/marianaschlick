@@ -33,6 +33,9 @@
 <div style="display: inline_block"><br>
 <a href="https://www.python.org/downloads/" target="_blank"><img align="center" alt="Mari-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank"></a>
 <a href="https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR" target="_blank"><img align="center" alt="Mari-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank"></a>
+<a href="https://cloud.google.com/sql/mysql" target="_blank"><img align="center" alt="Mari-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" target="_blank"></a>
+<a href="https://cloud.google.com/sql/postgresql" target="_blank"><img align="center" alt="Mari-post" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" target="_blank"></a>
+<a href="https://cloud.google.com/sql/sqlserver" target="_blank"><img align="center" alt="Mari-microSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" target="_blank"></a>
 <a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank"><img align="center" alt="Mari-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" target="_blank"></a>
 <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Mari-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" target="_blank"></a>
 <a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank"><img align="center" alt="Mari-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank"></a>
@@ -45,6 +48,7 @@
 # Cursos
 <p>Android: Introdução | Android: Laboratório - Samsung Ocean <a href="https://www.oceanbrasil.com/" target="_blank"><img align="center" height="32" width="136" src="https://www.oceanbrasil.com/img/general/logoOceanI.png"></a></p>   
 <p>Python: Introdução | Projeto I | Projeto Final  - Samsung Ocean <a href="https://www.oceanbrasil.com/" target="_blank"><img align="center" height="32" width="136" src="https://www.oceanbrasil.com/img/general/logoOceanI.png"></a></p>
+<p>Modelagem de Dados | Implementando Banco de Dados | Administrando Banco de Dados - Fundação Bradesco <a href="https://www.ev.org.br/" target="_blank"><img align="center" height="50" width="50" src="https://d1vs1x3ni0c692.cloudfront.net/wp-content/uploads/2019/02/06030257/parceiro-fundacaobradesco-e1549434559481.png"></a></p>   
 <p>MineCraft - Hora do Código <a href="https://studio.code.org/s/mc/lessons/1/levels/1" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" target="_blank"></a></p>      
 <p>Bootcamp Java Developer | Ifood Dev Week - DIO <a href="https://web.dio.me/play" target="_blank"><img align="center" height="55" width="55" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" target="_blank"></a></p>
 <p>Imersão Dev - Alura <a href="https://imersao.dev/" target="_blank"><img align="center" height="40" width="40" src="https://play-lh.googleusercontent.com/Y9T2c7ZUQyfUdVbj_J9-8tBDDVknyBg3lM3xUuMNp6phK_yKOkQTeqx2jphrwW1Z6jts" target="_blank"></a></p>    
