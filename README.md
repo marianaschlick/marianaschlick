@@ -27,7 +27,7 @@
 
 # Tecnologias
   
-#### Estou estudando as seguintes tecnologias:
+#### Estou estudando as seguintes tecnologias e linguagens:
 
 <div style="display: inline_block"><br>
 <a href="https://www.python.org/downloads/" target="_blank"><img align="center" alt="Mari-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank"></a>
