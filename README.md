@@ -58,7 +58,9 @@
 # Projetos
 
 #### Meus 3 primeiros projetos independentes!!! 🏆  [Aguarde]
-  
+
+<p><a href="https://github.com/marianaschlick/queerCircle" target="_blank"><img align="center" height="40" width="40" src="https://imagensemoldes.com.br/wp-content/uploads/2021/02/Numero-1-PNG-1024x1024.png" target="_blank"></a>Rainbow Circles - Queer Project </p>  
+ 
 # Contatos
   
 #### Você pode me encontrar aqui:
