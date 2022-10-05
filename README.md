@@ -4,7 +4,6 @@
   
   <p align="center">
     <a href="#sobre">Sobre</a> -
-    <a href="#roadmap">Roadmap</a> -
     <a href="#tecnologias">Tecnologias</a> -
     <a href="#cursos">Cursos</a> -
     <a href="#projetos">Projetos</a> -
@@ -15,15 +14,6 @@
  # Sobre
 
  <p align="justify"> Me chamo Mariana Schlickmann, taurine, nascide em 15/05/1994 (28 anos). Sou integrante da comunidade LGBTQIAPN+, como pessoa não-binária e bissexual. Em união estável, responsável pela Capitu (meow) e pela Matilda (au). Sou apaixonade por jogos, plantas, comidas, pets, música, trocas de conhecimento, e mutioooo mais, gosto muito de muitas coisas, possuindo inúmeros hobbies. Me formei em Agronomia pela Universidade Federal de Santa Catarina, onde participei de diversos projetos, laboratórios e grupos de pesquisa, tendo experiência com trabalho em equipe, em diversos setores. Atualmente trabalho como cozinheire em uma creperia francesa. Estou em transição de carreira para a área da tecnologia, me aprofundando em diversas linguagens, com foco Full-Stack. Busco sempre por cursos online e materiais disponibilizados por empresas e instituições de ensino, mantendo o espiríto autodidata ativo! Totalmente comprometide a evoluir e crescer dentro dessa nova carreira, me matriculei recentemente em um curso de graduação em Análise e Desenvolvimento de Sistemas, possuir a base acadêmica é de suma importância, assim sigo procurando minha primeira experiência como Dev (Jr, Estágio ou Trainee).</p>
-
-# Roadmap
-
-<br><div>
-  <a href="https://github.com/marianaschlick">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marianaschlick&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaschlick&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
-<br>
 
 # Tecnologias
   
